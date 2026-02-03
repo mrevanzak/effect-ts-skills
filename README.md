@@ -5,17 +5,17 @@ A collection of AI-powered skills for [Effect-TS](https://effect.website/) devel
 ## Installation
 
 ```bash
-npx skills add rev/effect-ts-skills
+npx skills add mrevanzak/effect-ts-skills
 ```
 
 Or install individual skills:
 
 ```bash
-npx skills add rev/effect-ts-skills/effect-ts-fundamentals
-npx skills add rev/effect-ts-skills/effect-ts-errors
-npx skills add rev/effect-ts-skills/effect-ts-resources
-npx skills add rev/effect-ts-skills/effect-ts-concurrency
-npx skills add rev/effect-ts-skills/effect-ts-anti-patterns
+npx skills add mrevanzak/effect-ts-skills/effect-ts-fundamentals
+npx skills add mrevanzak/effect-ts-skills/effect-ts-errors
+npx skills add mrevanzak/effect-ts-skills/effect-ts-resources
+npx skills add mrevanzak/effect-ts-skills/effect-ts-concurrency
+npx skills add mrevanzak/effect-ts-skills/effect-ts-anti-patterns
 ```
 
 ## Skills Overview
